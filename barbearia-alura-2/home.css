@@ -10,7 +10,7 @@
 	#banner {
     width: 100%;
     height: 400px;
-    object-fit: cover; /* a imagem será cortada sem distorcer, cobrindo todo o espaço do elemento */
+    object-fit: cover;
 }
 	
 	.texto-principal {
